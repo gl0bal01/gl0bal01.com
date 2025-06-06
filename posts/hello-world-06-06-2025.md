@@ -18,7 +18,7 @@ I l0ve Truth
 
 ## This is  code
 
-Indeed this is `code `right!
+[Indeed](https://gl0bal01.com) this is `code `right!
 
 ```
 let message: string = 'Hello, World!';
