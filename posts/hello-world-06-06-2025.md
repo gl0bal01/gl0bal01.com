@@ -1,5 +1,5 @@
 ---
-title: "Effective Action Verbs for LLM Interactions: A Developer\'s Guide"
+title: "Effective Action Verbs for LLM Interactions: A Developer's Guide"
 date: 2025-06-06 09:58:42
 author: global01
 status: publish
