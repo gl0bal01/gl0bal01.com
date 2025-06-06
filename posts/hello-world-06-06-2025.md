@@ -14,7 +14,7 @@ Welcome to WordPress. This is your** first post**. Edit or delete it, then start
 ![](https://gl0bal01.com/wp-content/uploads/2025/06/M0m0ns.jpg)
 
 > 
-I l0ve Truth
+I l0ve Truth & Carrots
 
 ## This is  code
 
