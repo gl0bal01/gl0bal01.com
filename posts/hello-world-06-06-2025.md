@@ -1,21 +1,21 @@
 ---
-title: "Hello world!"
+title: "Effective Action Verbs for LLM Interactions: A Developer\'s Guide"
 date: 2025-06-06 09:58:42
 author: global01
 status: publish
-excerpt: "# Effective Action Verbs for LLM Interactions: A Developer&#8217;s Guide As developers, we know that clear communication with our tools directly impacts productivity. When working with Large Language Models (LLMs) like Claude, the verbs you choose can make the difference between getting exactly what you need and spending time refining outputs. Here&#8217;s a practical guide to action verbs that consistently yield better results. ## Core Principles The most effective LLM interactions follow a simple pattern: **precise verb + clear context = optimal output**. Think of these verbs as function calls—each has a specific purpose and expected return type. ## Essential [&hellip;]"
+excerpt: "*As developers*, we know that clear communication with our [tools](https://www.google.fr) directly impacts productivity. When working with Large Language Models (LLMs) like Claude, the verbs you choose can make the difference between getting exactly what you need and spending time refining outputs. Here&#8217;s a practical guide to action verbs that consistently yield better results. ## Core Principles The most effective LLM interactions follow a simple pattern: **precise verb + clear context = optimal output**. Think of these verbs as function calls—each has a specific purpose and expected return type. ![M0m0ns](/wp-content/uploads/2025/06/M0m0ns.jpg){.alignnone} ## Essential Verb Categories ### 1. Analysis &#038; Understanding When you [&hellip;]"
 categories:
   - Uncategorized
 permalink: https://gl0bal01.com/hello-world/
 ---
 
-# Effective Action Verbs for LLM Interactions: A Developer&#8217;s Guide
-
-As developers, we know that clear communication with our tools directly impacts productivity. When working with Large Language Models (LLMs) like Claude, the verbs you choose can make the difference between getting exactly what you need and spending time refining outputs. Here&#8217;s a practical guide to action verbs that consistently yield better results.
+*As developers*, we know that clear communication with our [tools](https://www.google.fr) directly impacts productivity. When working with Large Language Models (LLMs) like Claude, the verbs you choose can make the difference between getting exactly what you need and spending time refining outputs. Here&#8217;s a practical guide to action verbs that consistently yield better results.
 
 ## Core Principles
 
 The most effective LLM interactions follow a simple pattern: **precise verb + clear context = optimal output**. Think of these verbs as function calls—each has a specific purpose and expected return type.
+
+![M0m0ns](/wp-content/uploads/2025/06/M0m0ns.jpg){.alignnone}
 
 ## Essential Verb Categories
 
@@ -23,13 +23,13 @@ The most effective LLM interactions follow a simple pattern: **precise verb + cl
 
 When you need the LLM to break down complex information:
 
-&#8211; **Analyze, evaluate, assess**: Deep examination with different levels of judgment
+* **Analyze, evaluate, assess**: Deep examination with different levels of judgment
 
-&#8211; **Compare, contrast**: Identify similarities and differences
+* **Compare, contrast**: Identify similarities and differences
 
-&#8211; **Diagnose, investigate**: Find root causes and explore issues
+* **Diagnose, investigate**: Find root causes and explore issues
 
-&#8211; **Identify, distinguish, categorize, classify**: Organize and label information
+* **Identify, distinguish, categorize, classify**: Organize and label information
 
 *Example*: &#8220;Analyze this error stack trace and diagnose the likely cause&#8221;
 
@@ -37,13 +37,13 @@ When you need the LLM to break down complex information:
 
 For building new content or code:
 
-&#8211; **Create, generate, write**: Produce from scratch
+1. **Create, generate, write**: Produce from scratch
 
-&#8211; **Design, develop, construct**: Build with architecture in mind
+2. **Design, develop, construct**: Build with architecture in mind
 
-&#8211; **Compose, draft, formulate**: Assemble coherent pieces
+3. **Compose, draft, formulate**: Assemble coherent pieces
 
-&#8211; **Synthesize, compile**: Combine multiple sources or concepts
+4. **Synthesize, compile**: Combine multiple sources or concepts
 
 *Example*: &#8220;Design a REST API schema for a user authentication system&#8221;
 
@@ -161,4 +161,4 @@ For finding information:
 
 &#8211; Passive: &#8220;Could you&#8221;, &#8220;Would you mind&#8221;
 
-Remember: LLMs respond best to direct, actionable language. Treat your prompts like well-defined function signatures—clear inputs lead to predictable outputs. The right verb sets the stage for the exact type of assistance you need.
+> Remember: LLMs respond best to direct, actionable language. Treat your prompts like well-defined function signatures—clear inputs lead to predictable outputs. The right verb sets the stage for the exact type of assistance you need.
