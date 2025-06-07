@@ -1,0 +1,55 @@
+{
+  "name": "awesome-bookmarklets",
+  "version": "1.0.0",
+  "description": "A curated collection of powerful JavaScript bookmarklets for developers, designers, and power users",
+  "main": "index.js",
+  "scripts": {
+    "build": "node tools/build.js",
+    "minify": "node tools/minify.js",
+    "validate": "node tools/validate.js",
+    "docs": "node tools/generate-docs.js",
+    "test": "node tools/test-runner.js",
+    "serve": "npx http-server . -p 8080 -o",
+    "lint": "eslint bookmarklets/**/*.js",
+    "format": "prettier --write bookmarklets/**/*.js",
+    "optimize-images": "node tools/optimize-images.js",
+    "screenshot": "node tools/screenshot-generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/awesome-bookmarklets.git"
+  },
+  "keywords": [
+    "bookmarklets",
+    "javascript",
+    "browser",
+    "tools",
+    "web-development",
+    "productivity",
+    "developer-tools"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/awesome-bookmarklets/issues"
+  },
+  "homepage": "https://github.com/your-username/awesome-bookmarklets#readme",
+  "devDependencies": {
+    "terser": "^5.19.0",
+    "eslint": "^8.44.0",
+    "prettier": "^3.0.0",
+    "sharp": "^0.32.0",
+    "puppeteer": "^20.0.0",
+    "http-server": "^14.1.0",
+    "fs-extra": "^11.1.0",
+    "glob": "^10.3.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "not dead"
+  ]
+}
